@@ -1,0 +1,42 @@
+Renomear tabela
+Usar a primeira linha como cabeçalho
+Classificação da coluna
+Remover linhas em branco
+Remover duplicatas
+Corrigir o tipo de dados
+
+Dividir coluna
+Formato
+Mesclar células 
+Extrair
+Analisar
+Substituir valores
+
+Estátisticas
+Padrão
+Arredondamento
+
+Idade
+Duração - transformar em anos
+Arredondamento 
+
+Coluna condicional
+Substituir erros
+
+Coluna de indices
+
+5
+Agrupar basico e avançado
+Importar novo arquivo
+
+Mesclar consultas (tabelas) - acrescenta novas colunas
+Acrescentar consultas - acrescenta novas linhas
+Importar pasta
+Atualizar
+
+
+
+
+
+
+
